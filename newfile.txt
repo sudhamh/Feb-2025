@@ -1,0 +1,2 @@
+echo " this is a text file"
+git add file.txt 
